@@ -1,6 +1,6 @@
 # HappyEnglish
 
-web app could find video and time by text request
+web app could find a video and time by text request
 
 
 
