@@ -1,6 +1,8 @@
 # HappyEnglish
 
-web app could find a video and time by text request
+A web app that could find a video and time by text request
+
+Idea: create an app that could help larning foreign language through videos.
 
 
 
